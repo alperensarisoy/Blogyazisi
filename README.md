@@ -1,0 +1,2 @@
+# Blogyazisi
+Blog Yazısı
